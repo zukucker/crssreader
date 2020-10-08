@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hLnwFI//sr7MNmJNdnTTOoiDzvXMerd2s0P4RzzmiQdz+QCKZOyjHwkikfh5tJdHSmBYSRraSeN0ll4QhemUjg==",
+  "success": true,
+  "projectFilePath": "/home/alexander/GIT/crssreader/crssreader.csproj",
+  "expectedPackageFiles": [
+    "/home/alexander/.nuget/packages/system.servicemodel.syndication/4.7.0/system.servicemodel.syndication.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

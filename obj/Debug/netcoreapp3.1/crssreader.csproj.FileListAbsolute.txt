@@ -1,0 +1,15 @@
+/home/alexander/GIT/crssreader/obj/Debug/netcoreapp3.1/crssreader.csprojAssemblyReference.cache
+/home/alexander/GIT/crssreader/obj/Debug/netcoreapp3.1/crssreader.AssemblyInfoInputs.cache
+/home/alexander/GIT/crssreader/obj/Debug/netcoreapp3.1/crssreader.AssemblyInfo.cs
+/home/alexander/GIT/crssreader/obj/Debug/netcoreapp3.1/crssreader.csproj.CoreCompileInputs.cache
+/home/alexander/GIT/crssreader/bin/Debug/netcoreapp3.1/crssreader
+/home/alexander/GIT/crssreader/bin/Debug/netcoreapp3.1/crssreader.deps.json
+/home/alexander/GIT/crssreader/bin/Debug/netcoreapp3.1/crssreader.runtimeconfig.json
+/home/alexander/GIT/crssreader/bin/Debug/netcoreapp3.1/crssreader.runtimeconfig.dev.json
+/home/alexander/GIT/crssreader/bin/Debug/netcoreapp3.1/crssreader.dll
+/home/alexander/GIT/crssreader/bin/Debug/netcoreapp3.1/crssreader.pdb
+/home/alexander/GIT/crssreader/bin/Debug/netcoreapp3.1/System.ServiceModel.Syndication.dll
+/home/alexander/GIT/crssreader/obj/Debug/netcoreapp3.1/crssreader.csproj.CopyComplete
+/home/alexander/GIT/crssreader/obj/Debug/netcoreapp3.1/crssreader.dll
+/home/alexander/GIT/crssreader/obj/Debug/netcoreapp3.1/crssreader.pdb
+/home/alexander/GIT/crssreader/obj/Debug/netcoreapp3.1/crssreader.genruntimeconfig.cache
